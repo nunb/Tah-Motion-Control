@@ -1,0 +1,3 @@
+[submodule "Tah-Motion-Control-iOS"]
+	path = Tah-Motion-Control-iOS
+	url = git@github.com:tah-io/Tah-Motion-Control-iOS.git
