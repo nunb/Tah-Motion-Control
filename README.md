@@ -7,9 +7,9 @@ Keynote presentations... it's magical!
 This repository consists of the iOS and Android(coming soon) source code along with the corresponding Arduino sketch for the Tah Motion Control app.
 
 
-![Menu](Menu.PNG) ![Presentation](Presentation.PNG)
-![Media](Media.PNG) ![Volume](Volume.PNG)  
-<a href="https://itunes.apple.com/us/app/tah-motion/id923858114?mt=8#"><img src="TahAppStore.jpg"></img></a>
+![Menu](media/Menu.PNG) ![Presentation](media/Presentation.PNG)
+![Media](media/Media.PNG) ![Volume](media/Volume.PNG)  
+<a href="https://itunes.apple.com/us/app/tah-motion/id923858114?mt=8#"><img src="media/TahAppStore.jpg"></img></a>
 
 ---
 
